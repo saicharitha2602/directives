@@ -7,4 +7,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'directives';
+  
+  colors=["blue","orange","yellow","green","black","white"];
+
+  numbers = [10,24,35,67,89,56,11,4,8]; 
+
+ 
+
 }
